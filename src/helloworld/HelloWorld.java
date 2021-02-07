@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author Lee
+ * @author Lee - updating the HelloWorld version
  */
 public class HelloWorld {
 
